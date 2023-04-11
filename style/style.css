@@ -1,0 +1,38 @@
+.container{
+    border-radius: 10px;
+    background-color: rgb(213, 240, 247);
+    padding-left: 15px;
+}
+.movie{
+    display: inline-block;
+    background-color:white;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 70px;  
+    padding: 10px;
+}
+button{
+    margin-left: 335px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: none;
+    background-color:rgb(183, 233, 245); ;
+}
+
+footer{
+    background-color: gainsboro;
+    margin-top: 35px;
+    padding-top: 5px ;
+}
+h1{
+    padding-left: 55px;
+}
+h2{
+    text-align: center;
+}
+h3, p{
+    padding-left: 75px;
+    font-size: 18px;
+}
